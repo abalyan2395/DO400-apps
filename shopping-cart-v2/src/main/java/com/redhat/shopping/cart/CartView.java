@@ -15,4 +15,6 @@ public class CartView {
         this.products   = new ArrayList<>(products);
         this.totalItems = totalItems;
     }
+
+
 }
